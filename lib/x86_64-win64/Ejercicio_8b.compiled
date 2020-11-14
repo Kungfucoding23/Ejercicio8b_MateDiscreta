@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357350767"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\DELL\Documents\Ing Informatica\Mate Discreta\UNIDAD 5\Ejercicio 8b\lib\x86_64-win64&quot; &quot;-FuC:\Users\DELL\Documents\Ing Informatica\Mate Discreta\UNIDAD 5\Ejercicio 8b\&quot; &quot;-FUC:\Users\DELL\Documents\Ing Informatica\Mate Discreta\UNIDAD 5\Ejercicio 8b\lib\x86_64-win64\&quot; &quot;-FEC:\Users\DELL\Documents\Ing Informatica\Mate Discreta\UNIDAD 5\Ejercicio 8b\&quot; &quot;-oC:\Users\DELL\Documents\Ing Informatica\Mate Discreta\UNIDAD 5\Ejercicio 8b\Ejercicio_8b.exe&quot; Ejercicio_8b.lpr"/>
+</CONFIG>
